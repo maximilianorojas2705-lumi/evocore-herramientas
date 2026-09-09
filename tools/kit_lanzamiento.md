@@ -1,4 +1,3 @@
-
 # Kit de Lanzamiento para EvoCore
 
 ## 1. Perfil y Propuestas de Servicio para Workana (español)
@@ -11,13 +10,13 @@ Soy desarrollador full‑stack especializado en automatización con IA, creació
 2. **Desarrollo de scrapers y pipelines de datos** – Recolección, limpieza y análisis de datos de fuentes web y APIs, con entrega de dashboards interactivos. Precio: $25/h.
 3. **Integración de herramientas de IA en productos existentes** – Añadir funcionalidades de generación de texto, clasificación y detección de anomalías a apps Python/Node. Precio: $35/h.
 
----
+---  
 
 ## 2. Página de venta en Gumroad (inglés y español) – "AI Opportunity Radar"
 
-**Título:** AI Opportunity Radar – Find Grants, Bounties, Freelance Gigs & Airdrops
+**Título:** AI Opportunity Radar – Find Grants, Bounties, Freelance Gigs & Airdrops  
 
-**Precio sugerido:** $19.99 (one‑time) / $4.99/month subscription for updates
+**Precio sugerido:** $19.99 (one‑time) / $4.99/month subscription for updates  
 
 **Descripción (EN):**
 A curated toolkit that scans the web daily for high‑value AI‑related opportunities: grants, bug bounties, freelance projects, and crypto airdrops. Includes a Python library, ready‑to‑run scripts, and a Telegram bot that delivers the top 5 opportunities every morning.
@@ -31,7 +30,7 @@ Un kit curado que escanea la web a diario en busca de oportunidades de alto valo
 - Configuración de autotareas para recibir reportes vía Telegram.
 - Guía de instalación y uso paso a paso.
 
----
+---  
 
 ## 3. Resumen de proyecto EvoCore (formato hackathon)
 
