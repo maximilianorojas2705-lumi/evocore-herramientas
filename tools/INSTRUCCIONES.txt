@@ -1,0 +1,11 @@
+AI OPPORTUNITY RADAR - SETUP / INSTALACION
+1. Install Python 3.9+ from python.org
+2. pip install requests
+3. Get a FREE Tavily API key at tavily.com (1000 searches/month)
+4. Set the key:
+   Mac/Linux:  export TAVILY_KEY="your_key"
+   Windows:    set TAVILY_KEY=your_key
+5. Run:  python cazador_oportunidades.py
+6. Read the TOP 5 report and execute the suggested action.
+Full monetization playbook (EN+ES): kit_lanzamiento.md
+Support: github.com/maximilianorojas2705-lumi/evocore-herramientas/issues
